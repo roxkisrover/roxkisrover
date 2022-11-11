@@ -24,28 +24,18 @@
 </div>
 <br>
 <div>
-  <a href="https://reactjs.org" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React">
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux">
-  </a>
-  <a href="https://styled-components.com" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/styled-components/brand/blob/master/styled-components.svg" alt="Styled-Components">
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js">
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest">
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img align="center" height=40" width=40"
-      src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack">
-  </a>
+  <img align="center" height=40" width=40"
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React">
+  <img align="center" height=40" width=40"
+    src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux">
+  <img align="center" height=40" width=40"
+    src="https://github.com/styled-components/brand/blob/master/styled-components.svg" alt="Styled-Components">
+  <img align="center" height=40" width=40"
+    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js">
+  <img align="center" height=40" width=40"
+    src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest">
+  <img align="center" height=40" width=40"
+    src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack">
 </div>
+<br>
+<a href="https://www.codewars.com/users/roxkisrover" target="_blank">My profile on Codewars</a>
