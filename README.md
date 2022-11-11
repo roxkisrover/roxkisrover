@@ -38,4 +38,4 @@
     src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack">
 </div>
 <br>
-<a href="https://www.codewars.com/users/roxkisrover" target="_blank">My profile on Codewars</a>
+<a href="https://www.codewars.com/users/roxkisrover">My profile on Codewars</a>
