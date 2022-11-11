@@ -6,7 +6,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=roxkisrover&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img height="180em"
+    <img align="center" height="180em"
       src="https://github-readme-stats.vercel.app/api?username=roxkisrover&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide=contribs">
   </picture>
   <picture>
@@ -16,7 +16,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxkisrover&layout=compact&langs_count=7"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img height="180em"
+    <img align="center" height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxkisrover&layout=compact&langs_count=7&theme=transparent">
   </picture>
 </div>
