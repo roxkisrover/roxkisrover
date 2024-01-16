@@ -2,16 +2,6 @@
   <a href="https://github.com/roxkisrover?tab=repositories">
     <picture align="center">
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=roxkisrover&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-        media="(prefers-color-scheme: dark)">
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=roxkisrover&show_icons=true&include_all_commits=true&count_private=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=roxkisrover&show_icons=true&include_all_commits=true&count_private=true&theme=transparent">
-    </picture>
-    <picture align="center">
-      <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roxkisrover&layout=compact&langs_count=6&theme=dracula"
         media="(prefers-color-scheme: dark)">
       <source
